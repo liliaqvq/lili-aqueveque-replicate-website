@@ -1,0 +1,28 @@
+.first-section {
+    background-color: black;
+}
+
+.cita {
+    border-radius: 20%;
+    font-size: 15px;
+}
+
+.disabled {
+    color: white !important;
+    font-size: 15px;
+}
+.loguito {
+    color: white;
+}
+
+#navbarSupportedContent .nav-link {
+    color: white;
+}
+
+.shopping .nav-link {
+    border-radius: 20%;
+}
+
+.title {
+    font-weight: bold;
+}
