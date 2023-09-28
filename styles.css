@@ -2,8 +2,8 @@
     background-color: black;
 }
 
-.first-pill {
-    border-radius: 25px;
+.first-app {
+    border-radius: 20px;
     font-size: 15px;
 }
 
@@ -51,8 +51,6 @@
     margin-left: 50%;
     margin-right: 400px;
 }
-
-
 
 .merch {
     border-style: solid;
