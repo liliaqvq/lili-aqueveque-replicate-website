@@ -2,8 +2,8 @@
     background-color: black;
 }
 
-.cita {
-    border-radius: 20%;
+.first-pill {
+    border-radius: 25px;
     font-size: 15px;
 }
 
@@ -13,6 +13,7 @@
 }
 .loguito {
     color: white;
+    margin-left: 3%;
 }
 
 #navbarSupportedContent .nav-link {
@@ -25,4 +26,31 @@
 
 .title {
     font-weight: bold;
+}
+
+.cover-container {
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+}
+
+.cover-img {
+    background-position: center center;
+    width: 100%;
+}
+
+.card-img-overlay {
+    margin-top: 105px;
+    margin-left: 13.5%;
+    margin-right: 850px;
+}
+
+.merch {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px white;
+    width: fit-content;
+    padding: 1px 20px;
+
 }
